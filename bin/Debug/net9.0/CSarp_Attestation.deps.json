@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CSarp_Attestation/1.0.0": {
+        "runtime": {
+          "CSarp_Attestation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSarp_Attestation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Переобучение в iT\CSharp\CSarp_Attestation\bin\Debug\net9.0\CSarp_Attestation.exe
+D:\Переобучение в iT\CSharp\CSarp_Attestation\bin\Debug\net9.0\CSarp_Attestation.deps.json
+D:\Переобучение в iT\CSharp\CSarp_Attestation\bin\Debug\net9.0\CSarp_Attestation.runtimeconfig.json
+D:\Переобучение в iT\CSharp\CSarp_Attestation\bin\Debug\net9.0\CSarp_Attestation.dll
+D:\Переобучение в iT\CSharp\CSarp_Attestation\bin\Debug\net9.0\CSarp_Attestation.pdb
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.AssemblyInfoInputs.cache
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.AssemblyInfo.cs
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.csproj.CoreCompileInputs.cache
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.sourcelink.json
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.dll
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\refint\CSarp_Attestation.dll
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.pdb
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\CSarp_Attestation.genruntimeconfig.cache
+D:\Переобучение в iT\CSharp\CSarp_Attestation\obj\Debug\net9.0\ref\CSarp_Attestation.dll
